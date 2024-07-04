@@ -1,0 +1,26 @@
+.update-employee-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.update-employee-container h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.update-employee-container .form-group {
+  margin-bottom: 15px;
+}
+
+.update-employee-container .form-control {
+  border-radius: 5px;
+}
+
+.update-employee-container .btn {
+  margin-top: 20px;
+  width: 100%;
+}

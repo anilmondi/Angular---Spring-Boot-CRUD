@@ -1,0 +1,28 @@
+/* src/app/employee-details/employee-details.component.css */
+
+.employee-details-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
